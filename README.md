@@ -1,2 +1,2 @@
 # Tin-Dog
-This website much like that Tinder but it is for Dogs.
+This website much like as Tinder but it is for Dogs.
